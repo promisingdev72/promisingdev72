@@ -1,7 +1,11 @@
 ## ✔ Hi ✔ Thank you for your visiting my profile.
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
-As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.
+As a senior web and App developer, I have rich experience & history for 4 years over in development department.
+
+<br><br>
+
+I will do my best for all the person who have great IDEA.
 
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT |Web Scraping
 

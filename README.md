@@ -171,18 +171,12 @@ As a senior web and App developer, I have rich experience & history for 4 years 
 </table>
 <br>
 
-
 ## Core skills
 
-- 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native
-- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel
-- 💬 <b>Database</b> : Mysql / MongoDB / SQlite
-- 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
-
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
-</p>
-
+✔ <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular / Bootstrap / React Native  <br>
+✔ <b>Back-end</b> : Node.js / Express / Django / Laravel /CodeIgniter <br>
+✔ <b>Database</b> : Mysql / MongoDB / SQlite <br>
+✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
 <br>
 <p align = "center">
   

@@ -183,9 +183,8 @@ As a senior web and App developer, I have rich experience & history for 4 years 
     <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
 </p>
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=talentedexpert0057&show_icons=true&theme=tokyonight&line_height=27">
+  
 </p>
 </details>

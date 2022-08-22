@@ -12,14 +12,9 @@ This is my contact information.
 Email: promising.dev72@gmail.com
 <br>
 Skype: https://join.skype.com/invite/yKaoh7ufOIKa
-
 <br>
-<br>
-
 <h3>I will do my best for all the person who have great IDEA.</h3>
-
 <br>
-
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT |Web Scraping
 
 ## Used Skills

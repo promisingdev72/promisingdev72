@@ -1,4 +1,5 @@
 ## 💯 Hi 💯 Thank you for your visiting my profile.
+<img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/>
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
 <br>

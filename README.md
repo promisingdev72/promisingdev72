@@ -10,7 +10,6 @@ This is my contact information.
 <br>
 Email: promising.dev72@gmail.com
 <br>
-<br>
 Skype: https://join.skype.com/invite/yKaoh7ufOIKa
 
 <br>

@@ -1,8 +1,8 @@
-## 💯 Hi 💯 Thank you for your visiting my profile.
+## 💯 Welcome 💯 Thank you for your visiting my profile.
 
-👋 <img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/>
+👋 <img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/> 
+<br>
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
-
 <br>
 💪I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
 <br>

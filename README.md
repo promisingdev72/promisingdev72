@@ -6,7 +6,7 @@
 <span style="font-size: 10rem"><b>[ Html / CSS / Javascript / Php / Python / Html5 / SCSS / Bootstrap / Tailwind CSS / MUI / React.js / Next.js / Angular / TypeScript / Node.js / Express / Laravel / CodeIgniter / Django ]</b></span>
 <br>
 <br>
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> | BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT |Web Scraping
+ <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> | BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT | Web Scraping | 👌
 <br>
 <br>
 💪I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.

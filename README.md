@@ -2,7 +2,9 @@
 
 👋 <img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/> 
 <br>
+<br>
 <span style="font-size: 10rem"><b>[ Html / CSS / Javascript / Php / Python / Html5 / SCSS / Bootstrap / Tailwind CSS / MUI / React.js / Next.js / Angular / TypeScript / Node.js / Express / Laravel / CodeIgniter / Django ]</b></span>
+<br>
 <br>
 💪I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
 <br>

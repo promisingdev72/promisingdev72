@@ -5,13 +5,13 @@
 
 <br>
 💪I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+<br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <br>
 😎😎😎 If you have good idea or any help, Please contact to me not to hestiate. I am ready all service for you 😎😎😎.
 <br>
 <br>
-❤ ❤ ❤ ❤ ❤
-This is my contact information .
+❤ ❤ ❤ ❤ ❤ This is my contact information ❤ ❤ ❤ ❤ ❤.
 <br>
 <br>
 🧮 Email: promising.dev72@gmail.com

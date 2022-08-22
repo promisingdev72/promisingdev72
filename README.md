@@ -1,19 +1,22 @@
 ## 💯 Hi 💯 Thank you for your visiting my profile.
-<img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/>
+
+👋 <img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/>
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
 <br>
-I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+💪I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <br>
-If you have good idea or any help, Please contact to me not to hestiate. I am ready all service for you.
-<br>
-<br>
-This is my contact information.
+😎😎😎 If you have good idea or any help, Please contact to me not to hestiate. I am ready all service for you 😎😎😎.
 <br>
 <br>
-Email: promising.dev72@gmail.com
+❤ ❤ ❤ ❤ ❤
+This is my contact information .
 <br>
-Skype: https://join.skype.com/invite/yKaoh7ufOIKa
+<br>
+🧮 Email: promising.dev72@gmail.com
+<br>
+☎ Skype: https://join.skype.com/invite/yKaoh7ufOIKa
 <br>
 <h3>I will do my best for all the person who have great IDEA.</h3>
 <br>

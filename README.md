@@ -4,6 +4,13 @@
 As a senior web and App developer, I have rich experience & history for 4 years over in development department.
 <br>
 I am very experienced in the web and app development fields for 5years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+<br>
+This is my contact information.
+<br>
+Email: promising.dev72@gmail.com
+<br>
+Skype: https://join.skype.com/invite/yKaoh7ufOIKa
+
 
 <br>
 

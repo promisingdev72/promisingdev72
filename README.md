@@ -1,9 +1,10 @@
 ## 💯 Hi 💯 Thank you for your visiting my profile.
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
-As a senior web and App developer, I have rich experience & history for 4 years over in development department.
 <br>
-I am very experienced in the web and app development fields for 5years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+I am very experienced in the web and app development fields for 5+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+<br>
+If you have good idea or any help, Please contact to me not to hestiate. I am ready all service for you.
 <br>
 <br>
 This is my contact information.

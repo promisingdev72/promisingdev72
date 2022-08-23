@@ -1,6 +1,8 @@
 ## 💯 Welcome 💯 Thank you for your visiting my profile.
 
 👋 <img src="https://komarev.com/ghpvc/?username=promisingdev72&style=flat-square&color=blue" alt=""/> 
+(https://img.shields.io/github/followers/promisingdev72?style=social)
+(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/promisingdev72)
 <br>
 <br>
 <span style="font-size: 10rem"><b>[ Html / CSS / Javascript / Php / Python / Html5 / SCSS / Bootstrap / Tailwind CSS / MUI / React.js / Next.js / Angular / TypeScript / Node.js / Express / Laravel / CodeIgniter / Django ]</b></span>
